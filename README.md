@@ -1,7 +1,13 @@
 SMS Terms and Conditions
 Effective Date: September 16, 2026
 
-By opting in to receive SMS messages from Smiles On Lee Pediatric Dentistry, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from Smiles On Lee Pediatric Dentistry, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can opt out at any time by replying STOP.
+For help, reply HELP.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/smiles_on_lee_PP
 
 Program Description
 Smiles On Lee Pediatric Dentistry sends customer care text messages to patients and parents regarding:
